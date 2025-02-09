@@ -42,3 +42,4 @@ Uložit soubor s názvem filter_interactive.py
 
 V terminalu nebo cmd zadat příkaz python filter_interactive.py
 
+Zadat vyžadované vstupy
