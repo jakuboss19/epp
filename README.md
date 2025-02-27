@@ -1,4 +1,4 @@
-Popis fungování souborů algo.py a filter_interactive.py
+Popis fungování souborů algo.py a filter_interactive.py ze zadaného úkolu
 
 # algo.py 
 
